@@ -1,0 +1,2 @@
+brew install plantuml
+plantuml sequenceDiagram.txt
